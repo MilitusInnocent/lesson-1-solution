@@ -1,0 +1,22 @@
+{
+  "name": "militusinnocent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "createTable.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MilitusInnocent/lesson-1-solution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MilitusInnocent/lesson-1-solution/issues"
+  },
+  "homepage": "https://github.com/MilitusInnocent/lesson-1-solution#readme",
+  "dependencies": {
+    "pg": "^8.5.1"
+  }
+}
